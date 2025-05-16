@@ -1,4 +1,4 @@
-Tool in Python (CLI) to toggle song entries in Forza Horizon 2 on/off via commenting.
+Tool in Python (CLI) to toggle song entries in Forza Horizon 2 *only* on/off via commenting. I will consider bringing this to Forza Horizon 3 in the future.
 
 *Instructions:* paste into your game directory next to `media` and run it by double-clicking it or `cd` into the directory and type `python radio.py`.
 
